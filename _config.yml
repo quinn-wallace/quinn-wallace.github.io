@@ -1,3 +1,6 @@
 # site settings
 theme: minima
 title: Quinn Wallace
+
+- title: About Me
+url: /about/
