@@ -8,6 +8,7 @@ In addition to Highland dance, I have learned, competed, and performed in a dive
 
 I’m looking forward to learning with you!
 
-![old highland](images/026.jpg)
+<p align="center">
+  <img src="images/old highland.jpg"></p>
 
 [1]: https://batd.co.uk
