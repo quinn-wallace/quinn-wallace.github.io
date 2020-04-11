@@ -2,5 +2,8 @@
 theme: minima
 title: Quinn Wallace
 
-- title: About Me
+- title: About
 url: /about/
+
+- title: Contact Me
+url: /contact/
