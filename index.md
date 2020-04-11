@@ -11,4 +11,6 @@ As a teacher, I strive to create a body-positive space in which dancers can conn
 
 **Curious to know more?** Please fill out a contact form, and I’ll be in touch with you shortly.
 
-
+<p align="center">
+  <img src="images/026.jpg" alt="red kilt">
+  </p>
