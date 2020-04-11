@@ -1,9 +1,3 @@
 # site settings
-theme: minima
+theme: jekyll-theme-minimal
 title: Quinn Wallace
-
-- title: About
-url: /about/
-
-- title: Contact Me
-url: /contact/
