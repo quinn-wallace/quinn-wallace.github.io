@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.blue-text1 {
+color: #003F87;
+}
+
+.blue-text2 {
+color: #7EB6FF;
+}
+
+@media print {
+  body {
+    padding:0.1in;
+    font-size:12pt;
+    color:#444;
+  }
+}
