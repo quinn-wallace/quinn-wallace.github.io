@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-h1.blue-text1 {
+h1 {
   color: #003F87;
 }
     
@@ -11,10 +11,3 @@ h2.blue-text2 {
 }
 
 
-@media print {
-  body {
-    padding:0.1in;
-    font-size:12pt;
-    color:#444;
-  }
-}
