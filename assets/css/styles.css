@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 h1.blue-text1 {
-  color: #003F87
+  color: #003F87;
 }
     
 h2.blue-text2 {
-  color: #7EB6FF
+  color: #7EB6FF;
 }
 
 
