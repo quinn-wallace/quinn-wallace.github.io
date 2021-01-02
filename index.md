@@ -9,6 +9,8 @@ My name is Quinn, and I’m a Highland dance teacher. Highland dance is an art f
 
 As a teacher, I strive to create a body-positive space in which dancers can connect with each other, work toward the goals that they set for themselves, and grow as a dancer, individual, and artist. In my studio, I welcome dancers of any age, skill level, and identity.
 
+I am a new San Francisco Bay Area transplant and live in Berkeley, California -- but in the age of Zoom, I am happy to teach you from anywhere to anywhere!
+
 **Curious to know more?** Please fill out a contact form, and I’ll be in touch with you shortly.
 
 <p align="center">
